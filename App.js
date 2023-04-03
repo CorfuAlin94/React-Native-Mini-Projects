@@ -1,7 +1,7 @@
 import { createAppContainer } from "react-navigation";
 import { createStackNavigator } from "react-navigation-stack";
 import HomeScreen from "./src/screens/HomeScreen";
-import Components from "./src/screens/Components";
+import ComponentsScreen from "./src/screens/ComponentsScreen";
 import List from "./src/screens/List";
 import ImageScreen from "./src/screens/ImageScreen";
 import CounterScreen from "./src/screens/CounterScreen";
@@ -13,7 +13,7 @@ const navigator = createStackNavigator(
   {
     Home: HomeScreen,
     List: List,
-    Components: Components,
+    Components: ComponentsScreen,
     ImageScreen: ImageScreen,
     CounterScreen: CounterScreen,
     ColorScreen: ColorScreen,
@@ -23,7 +23,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: "Home",
     defaultNavigationOptions: {
-      title: "Cats 4 Life",
+      title: "React Native Mini Prj",
     },
   }
 );
