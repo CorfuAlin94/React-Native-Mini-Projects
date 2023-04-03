@@ -4,19 +4,19 @@ import ImageDetail from "../components/ImageDetails";
 
 function ImageScreen() {
   return (
-    <View horizontal>
+    <View>
       <ImageDetail
-        title={"Beach"}
+        title={"Garfield"}
         imageSource={require("../../assets/beach.jpg")}
         imageScore={"Image score - 9"}
       />
       <ImageDetail
-        title={"Forest"}
+        title={"Snow"}
         imageSource={require("../../assets/forest.jpg")}
         imageScore={"Image score - 7"}
       />
       <ImageDetail
-        title={"Mountain"}
+        title={"Cat San"}
         imageSource={require("../../assets/mountain.jpg")}
         imageScore={"Image score - 4"}
       />
