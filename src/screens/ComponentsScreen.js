@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, Image, StyleSheet, FlatList } from "react-native";
+import { Text, StyleSheet } from "react-native";
 
 function ComponentsScreen() {
   var name = "Alin";

@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Text, View, StyleSheet } from "react-native";
 import ColorCounter from "../components/ColorCounter";
-import { Button } from "react-native-web";
 
 const SquareScreen = () => {
   const [red, setRed] = useState(1);

@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, Image, StyleSheet, FlatList, Button } from "react-native";
+import { View, StyleSheet } from "react-native";
 import ImageDetail from "../components/ImageDetails";
 
 function ImageScreen() {

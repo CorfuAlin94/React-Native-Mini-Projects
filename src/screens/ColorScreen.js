@@ -1,4 +1,4 @@
-import { View, Text, Button, FlatList } from "react-native";
+import { View, Button, FlatList } from "react-native";
 import React, { useState } from "react";
 
 const ColorScreen = () => {
