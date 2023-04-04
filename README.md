@@ -9,5 +9,5 @@ As a tracker all the commits will contain the date on which I have last worked o
 
 # 1. React-Native-Mini-Projects -  Prj_1-10
 
-Cointains the mini projects and challenges of the Udemy Course - The Complete React Native + Hooks Course
+Contains the mini projects and challenges of the Udemy Course - The Complete React Native + Hooks Course
 
