@@ -13,17 +13,17 @@ const SquareScreen = () => {
       <ColorCounter
         onIncrease={() => setRed(red + 10)}
         onDecrease={() => setRed(red - 10)}
-        color="red"
+        color="Red"
       />
       <ColorCounter
         onIncrease={() => setGreen(green + 10)}
         onDecrease={() => setGreen(green - 10)}
-        color="green"
+        color="Green"
       />
       <ColorCounter
         onIncrease={() => setBlue(blue + 10)}
         onDecrease={() => setBlue(blue - 10)}
-        color="blue"
+        color="Blue"
       />
       <Text
         style={{

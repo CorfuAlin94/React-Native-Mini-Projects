@@ -1,5 +1,5 @@
-import { View, Button, FlatList } from "react-native";
 import React, { useState } from "react";
+import { View, Button, FlatList } from "react-native";
 
 const ColorScreen = () => {
   const [colors, setColors] = useState([]);
@@ -14,6 +14,7 @@ const ColorScreen = () => {
       ></Button>
       <FlatList
         horizontal
+        showsHorizontalScrollIndicator={false}
         keyExtractor={(item) => item}
         data={colors}
         renderItem={({ item }) => {
