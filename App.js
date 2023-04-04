@@ -8,6 +8,7 @@ import CounterScreen from "./src/screens/CounterScreen";
 import ColorScreen from "./src/screens/ColorScreen";
 import SquareScreen from "./src/screens/SquareScreen";
 import TextScreen from "./src/screens/TextScreen";
+import SquareScreenTwo from "./src/screens/SquareScreen2";
 
 const navigator = createStackNavigator(
   {
@@ -19,6 +20,7 @@ const navigator = createStackNavigator(
     ColorScreen: ColorScreen,
     SquareScreen: SquareScreen,
     TextScreen: TextScreen,
+    SquareScreenTwo: SquareScreenTwo,
   },
   {
     initialRouteName: "HomeScreen",
