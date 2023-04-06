@@ -7,11 +7,11 @@ As a tracker all the commits will contain the date on which I have last worked o
 
 # React-Native-Mini-Projects - Branches:
 
-# 1. React-Native-Mini-Projects -  Prj_1-10
+# 1. Prj_1-10
 
 Contains the mini projects and challenges of the Udemy Course - The Complete React Native + Hooks Course
 
-# 2. React-Native-Mini-Projects - Yelp-App
+# 2. Yelp-App
 
 Contains a project that brings in by search all the Yelp restaurants in your area (via API fetching). And by selecting a restaurant a new screen will appear with all his details.
 
