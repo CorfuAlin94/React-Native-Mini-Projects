@@ -19,4 +19,4 @@ This projects idea is from the Udemy Course - The Complete React Native + Hooks 
 
 All the dependencies, functionality and styling was done by me (the courses version being deprecated).
 
-It was a good change to read version documentation and make decisions. Hope you will enjoy it as much as I did !
+It was a good chance to read version documentation and make decisions. Hope you will enjoy it as much as I did!
