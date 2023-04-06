@@ -11,3 +11,12 @@ As a tracker all the commits will contain the date on which I have last worked o
 
 Contains the mini projects and challenges of the Udemy Course - The Complete React Native + Hooks Course
 
+# 2. React-Native-Mini-Projects - Yelp-App
+
+Contains a project that brings in by search all the Yelp restaurants in your area (via API fetching). And by selecting a restaurant a new screen will appear with all his details.
+
+This projects idea is from the Udemy Course - The Complete React Native + Hooks Course.
+
+All the dependencies, functionality and styling was done by me (the courses version being deprecated).
+
+It was a good change to read version documentation and make decisions. Hope you will enjoy it as much as I did!
