@@ -20,3 +20,7 @@ This projects idea is from the Udemy Course - The Complete React Native + Hooks 
 All the dependencies, functionality and styling was done by me (the courses version being deprecated).
 
 It was a good chance to read version documentation and make decisions. Hope you will enjoy it as much as I did!
+
+# 2. Blog-App
+
+(Under production but the progress can be traced in the "Blog-App" branch)
