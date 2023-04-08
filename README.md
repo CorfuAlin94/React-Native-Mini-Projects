@@ -21,6 +21,6 @@ All the dependencies, functionality and styling was done by me (the courses vers
 
 It was a good chance to read version documentation and make decisions. Hope you will enjoy it as much as I did!
 
-# 2. Blog-App
+# 3. Blog-App
 
 (Under production but the progress can be traced in the "Blog-App" branch)
