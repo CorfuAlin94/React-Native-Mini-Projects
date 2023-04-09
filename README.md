@@ -1,4 +1,4 @@
-# React-Native-Mini-Projects
+# React-Native-Projects
 
 This repository is made for all my React Native Mini Projects.
 
