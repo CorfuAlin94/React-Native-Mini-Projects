@@ -23,4 +23,4 @@ It was a good chance to read version documentation and make decisions. Hope you 
 
 # 3. Blog-App
 
-(Under production but the progress can be traced in the "Blog-App" branch)
+(Under production but the progress can be tracked in the "Blog-App" branch)
