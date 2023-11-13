@@ -9,7 +9,6 @@ As a tracker all the commits will contain the date on which I have last worked o
 
 # 1. Prj_1-10
 
-
 Contains the mini projects and challenges of the Udemy Course - The Complete React Native + Hooks Course
 
 # 2. Yelp-App
